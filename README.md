@@ -1,6 +1,6 @@
 # Quick Drop — Real-Time Grocery Delivery App
 
-# Live Demo: elitemartt.netlify.app
+Live Demo: [Quick Drop](https://qd-f.onrender.com/)
 
 Quick Drop is a full-stack grocery delivery app I built from scratch. It handles the complete flow — customers browse and order, admins manage everything from a dashboard, and delivery agents get assigned orders in real time with live GPS tracking.
 
