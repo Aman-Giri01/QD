@@ -1,5 +1,7 @@
 # Quick Drop — Real-Time Grocery Delivery App
 
+# Live Demo: elitemartt.netlify.app
+
 Quick Drop is a full-stack grocery delivery app I built from scratch. It handles the complete flow — customers browse and order, admins manage everything from a dashboard, and delivery agents get assigned orders in real time with live GPS tracking.
 
 The part I'm most proud of is the order assignment engine. It doesn't just pick the nearest agent — it factors in distance, acceptance rate, past performance, and workload fairness to score and assign the best available agent every time.
